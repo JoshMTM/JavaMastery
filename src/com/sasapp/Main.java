@@ -69,7 +69,7 @@ public class Main {
 
         //Logical and operators
         int topScore = 90;
-        if (topScore == 100) {
+        if (topScore >= 90) {
             System.out.println("This is the highest score");
         }
         int secondTopScore = 80;
